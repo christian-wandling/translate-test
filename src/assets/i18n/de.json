@@ -1,0 +1,5 @@
+{
+  "translation": "Übersetzung",
+  "things": "{count, plural, =0{Nichts} one{Ein Ding} other{Viele Dinge}}",
+  "HELLO": "hallo {value}"
+}
